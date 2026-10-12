@@ -1,0 +1,360 @@
+[{
+  "_id": 3,
+  "name": "Alytaus rajono viešoji biblioteka",
+  "address": "Naujoji g. 48, Alytus",
+  "login": {
+    "username": "alytus1",
+    "password": "$2b$12$L9n1AA9sVQOu/Xf9rUscruO1f/CL4dr2dg53qMPhebcvItoZKcja6"
+  }
+},
+{
+  "_id": 14,
+  "name": "Užliedžių filialas, Kauno rajono viešoji biblioteka",
+  "address": "Ledos g. 2, Užliedžiai, Kauno r.",
+  "login": {
+    "username": "kaunas2",
+    "password": "$2b$12$Uc1dgC1d7IAMlBZp8oKE1uiJol/.fnhG4dWLBAf8zfFMOgwC41YQK"
+  }
+},
+{
+  "_id": 25,
+  "name": "Ukmergės rajono viešoji biblioteka",
+  "address": "Vytauto g. 30, Ukmergė",
+  "login": {
+    "username": "biblioteka25",
+    "password": "$2b$12$ulHjwUYj5ZCK.t46fu/X7.qq.4LZnIHd3wCCZWh8UEEMzChWkJQ2C"
+  }
+},
+{
+  "_id": 28,
+  "name": "Vilkaviškio viešoji biblioteka",
+  "address": "S. Nėries g. 5, Vilkaviškis",
+  "login": {
+    "username": "biblioteka28",
+    "password": "$2b$12$Rq80X0vt7hs2lvY940d9BeiU4htOcH0oV/L80IZHfIdY/FnIZO7Ty"
+  }
+},
+{
+  "_id": 16,
+  "name": "Akmenės rajono viešoji biblioteka",
+  "address": "V. Kudirkos g., Naujoji Akmenė",
+  "login": {
+    "username": "akmene1",
+    "password": "$2b$12$oMGRVfLH/6.GzstEThydVOKW59l/zpnF1R3ye/pKp42xHKLgPQuwy"
+  }
+},
+{
+  "_id": 31,
+  "name": "Birštono viešoji biblioteka",
+  "address": "S. Dariaus ir S. Girėno g. 12, Birštonas",
+  "login": {
+    "username": "biblioteka31",
+    "password": "$2b$12$L.1cYbh6hx1GVd8xOrKl2OVgUgX3brf1mBLRpG25ZLTBUWtKqlwhS"
+  }
+},
+{
+  "_id": 37,
+  "name": "Pasvalio M. Katiliškio viešoji biblioteka",
+  "address": "Vytauto Didžiojo a. 7, Pasvalys",
+  "login": {
+    "username": "biblioteka37",
+    "password": "$2b$12$YVXWe6dk6Gai97zAxnjjiuXBxrUUIjdTbWivMpjhcyEiwL7MMGBs."
+  }
+},
+{
+  "_id": 40,
+  "name": "Raseinių Marcelijaus Martinaičio viešoji biblioteka",
+  "address": "V. Kudirkos g. 2, Raseiniai",
+  "login": {
+    "username": "biblioteka40",
+    "password": "$2b$12$b2pHYHjU4TfBnR0rd/aCW.8rnyICnBE7zO0xbL9lla39XDsy.qfTG"
+  }
+},
+{
+  "_id": 12,
+  "name": "Kybartų filialas, Vilkaviškio rajono viešoji biblioteka",
+  "address": "J. Basanavičiaus g. 40, Kybartai",
+  "login": {
+    "username": "vilkaviskis1",
+    "password": "$2b$12$tmPsxLTreRO638hswuqVA.ojxy46z/EAgOU7Pg4w.uyQjJWAZm5ka"
+  }
+},
+{
+  "_id": 35,
+  "name": "Molėtų rajono viešoji biblioteka",
+  "address": "Vilniaus g. 44, Molėtai",
+  "login": {
+    "username": "biblioteka35",
+    "password": "$2b$12$HZmKQdlOoBK75BJQp/zQv.FDV8xw9OQJisKu9u5lhxAuk0sVouq5C"
+  }
+},
+{
+  "_id": 10,
+  "name": "Panevėžio apskrities Gabrielės Petkevičaitės-Bitės viešoji biblioteka",
+  "address": "Respublikos g. 14, Panevėžys",
+  "login": {
+    "username": "panevezys1",
+    "password": "$2b$12$2VGbMoB3TmRLD4l4UYaRd.BV.w7aK5XtCk3rj88x94P2QW20vK9fG"
+  }
+},
+{
+  "_id": 24,
+  "name": "Telšių Karolinos Praniauskaitės viešoji biblioteka",
+  "address": "Respublikos g. 18, Telšiai",
+  "login": {
+    "username": "biblioteka24",
+    "password": "$2b$12$dW.cv/YL4bh2eM8ys0z1fOH2WScF74pvsByQrJ3IBWMNzJDQInQ2e"
+  }
+},
+{
+  "_id": 27,
+  "name": "Varėnos viešoji biblioteka",
+  "address": "Vytauto g. 19, Varėna",
+  "login": {
+    "username": "biblioteka27",
+    "password": "$2b$12$HLMrwpmNiRWx1ZCvQLbD7..WP96.qox4Ct2RZwVg0h4bdqL/.pCXi"
+  }
+},
+{
+  "_id": 6,
+  "name": "Priekulės filialas, Klaipėdos rajono biblioteka",
+  "address": "Naujoji g. 3, Priekulė, Klaipėdos r.",
+  "login": {
+    "username": "klaipeda2",
+    "password": "$2b$12$ieNJErgmjKu77WVk4RgXV.09knGe3JgICjXPWHOkGgrHLwGozxSQC"
+  }
+},
+{
+  "_id": 26,
+  "name": "Utenos A. ir M. Miškinių viešoji biblioteka",
+  "address": "Maironio g. 12, Utena",
+  "login": {
+    "username": "biblioteka26",
+    "password": "$2b$12$TwPep6Siz.OVNOiySYgumOwxlHwK3grMoOVyYex85nG154uDGzy1G"
+  }
+},
+{
+  "_id": 30,
+  "name": "Zarasų rajono viešoji biblioteka",
+  "address": "D. Bukonto g. 20, Zarasai",
+  "login": {
+    "username": "biblioteka30",
+    "password": "$2b$12$kbWkeDSE5lRw7YP4hhPuTejHq48tYiRi9x7WkPE9cURnSaAdTJJeC"
+  }
+},
+{
+  "_id": 8,
+  "name": "Dituvos filialas, Klaipėdos rajono biblioteka",
+  "address": "Dituvos g. 41, Dercekliai, Klaipėdos r.",
+  "login": {
+    "username": "klaipeda4",
+    "password": "$2b$12$2oH0NrnS.lHUvn6ZsMgOf.GOWy6qNT2QQYnbgsUB/.B1KGQ2srlCS"
+  }
+},
+{
+  "_id": 11,
+  "name": "Rokiškio rajono Juozapo Keliuočio viešoji biblioteka",
+  "address": "Nepriklausomybės a. 16, Rokiškis",
+  "login": {
+    "username": "rokiskis1",
+    "password": "$2b$12$IshVe7p4UHX8s6n5igCWMujSX5n7OGyV5j9oRK62/GGSb4CXa6sze"
+  }
+},
+{
+  "_id": 1,
+  "name": "Lietuvos nacionalinė Martyno Mažvydo biblioteka",
+  "address": "Gedimino pr. 51, Vilnius",
+  "login": {
+    "username": "vilnius1",
+    "password": "$2b$12$ll0oNRoiF3yq4GwXOBKrRe35m1R/uxAOicqmj.fqXjuk1nU1utL1K"
+  }
+},
+{
+  "_id": 2,
+  "name": "Vilniaus žydų viešoji biblioteka",
+  "address": "Gedimino pr. 24, Vilnius",
+  "login": {
+    "username": "vilnius2",
+    "password": "$2b$12$YsHeAP/UzJrzdqgQXdsDueC1oPNSp1yDBFt5wQ1VR7pdRwfVt8QN2"
+  }
+},
+{
+  "_id": 5,
+  "name": "Klaipėdos Imanuelio Kanto viešoji biblioteka",
+  "address": "Turgaus g. 8-19, Klaipėda",
+  "login": {
+    "username": "klaipeda1",
+    "password": "$2b$12$SlsNGJu8Ynwe6Nf71HIve.peBqsSmROltrlCfCg6cW31E/aEV2x12"
+  }
+},
+{
+  "_id": 9,
+  "name": "Šiaulių miesto viešoji biblioteka",
+  "address": "Aušros al. 21, Šiauliai",
+  "login": {
+    "username": "siauliai1",
+    "password": "$2b$12$bjqnGWzMXs99B/inqzeDzunSWtMIWXOBjJjxd3t2rnbK9Z7D1Eh66"
+  }
+},
+{
+  "_id": 15,
+  "name": "Zapyškio filialas, Kauno rajono viešoji biblioteka",
+  "address": "Šviesos g. 18, Zapyškis, Kauno r.",
+  "login": {
+    "username": "kaunas3",
+    "password": "$2b$12$/vLgaqNc7z/gEK5tXtSzTOfbe0x5/DNTVEXR3z7yqKKLj6N5JRZ/K"
+  }
+},
+{
+  "_id": 19,
+  "name": "Ignalinos rajono viešoji biblioteka",
+  "address": "Atgimimo g. 20, Ignalina",
+  "login": {
+    "username": "ignalina1",
+    "password": "$2b$12$sYqSXr0jLDnV62LMseQnr.E1EQrDrPDjKK42W5OM0MKb4Vgt6MkaW"
+  }
+},
+{
+  "_id": 20,
+  "name": "Jonavos Grigorijaus Kanovičiaus viešoji biblioteka",
+  "address": "Žeimių g. 9, Jonava",
+  "login": {
+    "username": "jonava1",
+    "password": "$2b$12$F9cXW4.b/7Xo8dOjRjeiFOxe9jwQLlZvi.5nRaVVuFrO.7/gUeP1m"
+  }
+},
+{
+  "_id": 23,
+  "name": "Tauragės rajono viešoji biblioteka",
+  "address": "Respublikos g. 3, Tauragė",
+  "login": {
+    "username": "biblioteka23",
+    "password": "$2b$12$9ulW3QvolYKLC3AnFtM6n.gncTir6bf8Pvy4zE5OZScHhgGf0ZQV6"
+  }
+},
+{
+  "_id": 29,
+  "name": "Visagino viešoji biblioteka",
+  "address": "Veteranų g. 1, Visaginas",
+  "login": {
+    "username": "biblioteka29",
+    "password": "$2b$12$QaQcALMugI2hvuULQ2No3.pvUlCPtl43hho6bvo4RmqRUMwMlBBPO"
+  }
+},
+{
+  "_id": 38,
+  "name": "Plungės viešoji biblioteka",
+  "address": "J. Tumo-Vaižganto g. 81, Plungė",
+  "login": {
+    "username": "biblioteka38",
+    "password": "$2b$12$.TIOXwfW.j91yKj/cQKRQOur42qw6SmXp.iYFHhTZON5fFh3Wlbha"
+  }
+},
+{
+  "_id": 7,
+  "name": "Pėžaičių filialas, Klaipėdos rajono biblioteka",
+  "address": "Aisės g. 3, Pėžaičiai, Klaipėdos r.",
+  "login": {
+    "username": "klaipeda3",
+    "password": "$2b$12$L6xbXnAlYplE0YIiuqqJverCilR4gwThMY.87pNfVXqzLBfmsVJbW"
+  }
+},
+{
+  "_id": 13,
+  "name": "Virbalio filialas, Vilkaviškio rajono viešoji biblioteka",
+  "address": "Vilniaus g. 17, Virbalis",
+  "login": {
+    "username": "vilkaviskis2",
+    "password": "$2b$12$VIcogzlsks2gCqzAddvidOGzTuJZPqGaUjn.FMeycS3FPPKRh5eBq"
+  }
+},
+{
+  "_id": 17,
+  "name": "Druskininkų viešoji biblioteka",
+  "address": "V. Kudirkos g. 13, Druskininkai",
+  "login": {
+    "username": "druskininkai1",
+    "password": "$2b$12$xfR7HDckekTkQ2fAhk7knOLdeMNX5kyniBFVb6VsSoXYHpSRz3LKm"
+  }
+},
+{
+  "_id": 22,
+  "name": "Marijampolės Petro Kriaučiūno viešoji biblioteka",
+  "address": "Vytauto g. 20, Marijampolė",
+  "login": {
+    "username": "biblioteka22",
+    "password": "$2b$12$JkrRqUzzTut1V5Lx/WnHLuWrIqqDsQSoB9XNFtTb9dzNmNrCk7CKW"
+  }
+},
+{
+  "_id": 32,
+  "name": "Joniškio rajono viešoji biblioteka",
+  "address": "Vilniaus g. 3, Joniškis",
+  "login": {
+    "username": "biblioteka32",
+    "password": "$2b$12$xs/xWwZdwvRMV5NqWQbt4.oifg/v3iUd/8CsRoBd0W4DyvrRTspmu"
+  }
+},
+{
+  "_id": 4,
+  "name": "Kauno rajono viešoji biblioteka",
+  "address": "Vytauto g. 21, Garliava, Kauno r.",
+  "login": {
+    "username": "kaunas1",
+    "password": "$2b$12$DY.LaeR84JDNlWex9JLi2OZo0Cr.tgat5Z2Zxtlb3O7UEKxex3aGm"
+  }
+},
+{
+  "_id": 21,
+  "name": "Panevėžio miesto viešoji biblioteka",
+  "address": "Kniaudiškių g. 34, Panevėžys",
+  "login": {
+    "username": "biblioteka21",
+    "password": "$2b$12$Fxum34JpVnZ0DjwMXZ4/suYvWwZKiMXg1wZHlj/PXaiTHv8FomfUq"
+  }
+},
+{
+  "_id": 33,
+  "name": "Kupiškio rajono savivaldybės viešoji biblioteka",
+  "address": "Pergalės g. 21, Kupiškis",
+  "login": {
+    "username": "biblioteka33",
+    "password": "$2b$12$879CT4HoIMkpK0UCAH6kWOiUlV9d.c7/krR5.40YJwIxpyfzH9oTe"
+  }
+},
+{
+  "_id": 34,
+  "name": "Lazdijų viešoji biblioteka",
+  "address": "Laisvės g. 4, Lazdijai",
+  "login": {
+    "username": "biblioteka34",
+    "password": "$2b$12$qzZnIGqldU4NEpC6pf5XI.vO6GwA.aTcllFyuvD6KQL42RIkiYVhq"
+  }
+},
+{
+  "_id": 39,
+  "name": "Prienų Justino Marcinkevičiaus viešoji biblioteka",
+  "address": "Laisvės a. 18, Prienai",
+  "login": {
+    "username": "biblioteka39",
+    "password": "$2b$12$tlnI/1nUwK6eZ8mIQ.Nd2OJ0vJ3lGMqAOd/Fcep/FBiRqJhkmZocG"
+  }
+},
+{
+  "_id": 18,
+  "name": "Elektrėnų viešoji biblioteka",
+  "address": "Draugystės g. 2, Elektrėnai",
+  "login": {
+    "username": "elektrenai1",
+    "password": "$2b$12$y8JaAud0ipwwNB83FzNoA./7iUZGbEaSOQBbgMnQyEwN0xzg14QgS"
+  }
+},
+{
+  "_id": 36,
+  "name": "Pagėgių savivaldybės viešoji biblioteka",
+  "address": "Jaunimo g. 3, Pagėgiai",
+  "login": {
+    "username": "biblioteka36",
+    "password": "$2b$12$v9I3H0.MMZnwA9V0UeVVN.0c0rEnzhzVwp5/PyogaGDKX.RCW.sFi"
+  }
+}]

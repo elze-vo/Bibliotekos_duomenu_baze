@@ -1,0 +1,428 @@
+[{
+  "_id": "9780000000024",
+  "title": "Anglų kalbos vadovėlis",
+  "author": "Mary Brown",
+  "book_type": "non-fiction",
+  "literary_genre": "vadovėlis",
+  "tags": [
+    "kalbos"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2019,
+  "original_year": 2019
+},
+{
+  "_id": "9780000000026",
+  "title": "Pasaulio istorija",
+  "author": "John Smith",
+  "book_type": "non-fiction",
+  "literary_genre": "faktai",
+  "tags": [
+    "istorija"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2018,
+  "original_year": 2018
+},
+{
+  "_id": "9780000000015",
+  "title": "1984",
+  "author": "George Orwell",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "klasika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2022,
+  "original_year": 1949
+},
+{
+  "_id": "9780000000019",
+  "title": "Matematikos pagrindai 9 klasei",
+  "author": "Rasa Jankauskienė",
+  "book_type": "non-fiction",
+  "literary_genre": "vadovėlis",
+  "tags": [
+    "matematika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2023,
+  "original_year": 2023
+},
+{
+  "_id": "9780000000007",
+  "title": "Baltaragio malūnas",
+  "author": "Kazys Boruta",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "klasika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2024,
+  "original_year": 1945
+},
+{
+  "_id": "9780000000023",
+  "title": "Ekonomikos pradmenys",
+  "author": "Asta Žilinskaitė",
+  "book_type": "non-fiction",
+  "literary_genre": "vadovėlis",
+  "tags": [
+    "ekonomika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2024,
+  "original_year": 2024
+},
+{
+  "_id": "9780000000000",
+  "title": "Updated Title",
+  "author": "Updated Author",
+  "book_type": "fiction",
+  "literary_genre": "drama",
+  "tags": [
+    "classic",
+    "award-winning"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2020,
+  "original_year": 1933
+},
+{
+  "_id": "9780000000010",
+  "title": "Haris Poteris ir Išminties akmuo",
+  "author": "J. K. Rowling",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "fantastika",
+    "vaikai",
+    "paaugliai"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2013,
+  "original_year": 1997
+},
+{
+  "_id": "9780000000009",
+  "title": "Žmogus be savybių",
+  "author": "Robert Musil",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "moderni"
+  ],
+  "language": "English",
+  "publishing_year": 2022,
+  "original_year": 1930
+},
+{
+  "_id": "9780000000012",
+  "title": "Hobitas",
+  "author": "J. R. R. Tolkien",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "fantastika",
+    "paaugliai"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2018,
+  "original_year": 1937
+},
+{
+  "_id": "9780000000018",
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "klasika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2013,
+  "original_year": 1953
+},
+{
+  "_id": "9780000000002",
+  "title": "Vilniaus pokeris",
+  "author": "Ričardas Gavelis",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "moderni"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2024,
+  "original_year": 1989
+},
+{
+  "_id": "9780000000008",
+  "title": "Eglė žalčių karalienė",
+  "author": "Liaudies kūryba",
+  "book_type": "fiction",
+  "literary_genre": "poezija",
+  "tags": [
+    "klasika",
+    "vaikai"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2018,
+  "original_year": 1837
+},
+{
+  "_id": "9780000000003",
+  "title": "Tadas Blinda",
+  "author": "Vincas Pietaris",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "istorinis",
+    "nuotykių"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2024,
+  "original_year": 1877
+},
+{
+  "_id": "9780000000011",
+  "title": "Broliai Liūtaširdžiai",
+  "author": "Astrid Lindgren",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "fantastika",
+    "vaikai"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2015,
+  "original_year": 1973
+},
+{
+  "_id": "9780000000027",
+  "title": "Albertas Einšteinas: Gyvenimas",
+  "author": "Walter Isaacson",
+  "book_type": "non-fiction",
+  "literary_genre": "faktai",
+  "tags": [
+    "biografija",
+    "mokslas"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2023,
+  "original_year": 2023
+},
+{
+  "_id": "9780000000005",
+  "title": "Karas ir taika",
+  "author": "Levas Tolstojus",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "klasika",
+    "istorinis"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2018,
+  "original_year": 1869
+},
+{
+  "_id": "9780000000025",
+  "title": "Lietuvos istorija",
+  "author": "Alvydas Nikžentaitis",
+  "book_type": "non-fiction",
+  "literary_genre": "faktai",
+  "tags": [
+    "istorija"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2015,
+  "original_year": 2015
+},
+{
+  "_id": "9780000000030",
+  "author": "John Doe",
+  "book_type": "fiction",
+  "literary_genre": "fantasy",
+  "original_year": 2005,
+  "publishing_year": 2005,
+  "tags": [
+    "magic",
+    "dragons"
+  ],
+  "title": "The Example Book 2"
+},
+{
+  "_id": "9780000000013",
+  "title": "Mažasis princas",
+  "author": "Antoine de Saint-Exupéry",
+  "book_type": "fiction",
+  "literary_genre": "poezija",
+  "tags": [
+    "vaikai",
+    "klasika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2015,
+  "original_year": 1943
+},
+{
+  "_id": "9780000000016",
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "klasika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2010,
+  "original_year": 1945
+},
+{
+  "_id": "9780000000021",
+  "title": "Biologijos pagrindai",
+  "author": "Rūta Jasiūnaitė",
+  "book_type": "non-fiction",
+  "literary_genre": "vadovėlis",
+  "tags": [
+    "mokslas"
+  ],
+  "language": "Polski",
+  "publishing_year": 2010,
+  "original_year": 2010
+},
+{
+  "_id": "9780000000017",
+  "title": "The Catcher in the Rye",
+  "author": "J. D. Salinger",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "klasika",
+    "paaugliai"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2021,
+  "original_year": 1951
+},
+{
+  "_id": "9780000000022",
+  "title": "Chemijos vadovėlis",
+  "author": "Laura Kairytė",
+  "book_type": "non-fiction",
+  "literary_genre": "vadovėlis",
+  "tags": [
+    "mokslas"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2015,
+  "original_year": 2015
+},
+{
+  "_id": "9780000000020",
+  "title": "Fizikos vadovėlis 10 klasei",
+  "author": "Jonas Petraitis",
+  "book_type": "non-fiction",
+  "literary_genre": "vadovėlis",
+  "tags": [
+    "mokslas"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2018,
+  "original_year": 2018
+},
+{
+  "_id": "9780000000031",
+  "author": "Updated Author",
+  "book_type": "fiction",
+  "literary_genre": "drama",
+  "original_year": 2005,
+  "publishing_year": 2020,
+  "tags": [
+    "classic",
+    "award-winning"
+  ],
+  "title": "Updated Title"
+},
+{
+  "_id": "9780000000001",
+  "title": "Metai",
+  "author": "Kristijonas Donelaitis",
+  "book_type": "fiction",
+  "literary_genre": "poezija",
+  "tags": [
+    "klasika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2024,
+  "original_year": 1818
+},
+{
+  "_id": "9780000000004",
+  "title": "Ponas Tadas",
+  "author": "Adam Mickiewicz",
+  "book_type": "fiction",
+  "literary_genre": "poezija",
+  "tags": [
+    "klasika"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2018,
+  "original_year": 1834
+},
+{
+  "_id": "9780000000014",
+  "title": "Laukinės gulbės",
+  "author": "H. C. Andersen",
+  "book_type": "fiction",
+  "literary_genre": "poezija",
+  "tags": [
+    "vaikai"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2017,
+  "original_year": 1838
+},
+{
+  "_id": "9780000000006",
+  "title": "Don Kichotas",
+  "author": "Miguel de Cervantes",
+  "book_type": "fiction",
+  "literary_genre": "romanas",
+  "tags": [
+    "klasika",
+    "nuotykių"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2020,
+  "original_year": 1605
+},
+{
+  "_id": "9780000000028",
+  "title": "Mokslininkų istorijos",
+  "author": "Ričardas Daukša",
+  "book_type": "non-fiction",
+  "literary_genre": "faktai",
+  "tags": [
+    "mokslas"
+  ],
+  "language": "Lietuvių",
+  "publishing_year": 2024,
+  "original_year": 2024
+},
+{
+  "_id": "9780000000032",
+  "author": "Updated Author",
+  "book_type": "fiction",
+  "literary_genre": "drama",
+  "original_year": 2005,
+  "publishing_year": 2020,
+  "tags": [
+    "classic",
+    "award-winning"
+  ],
+  "title": "Updated Title"
+}]

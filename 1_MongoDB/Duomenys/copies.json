@@ -1,0 +1,3496 @@
+[{
+  "_id": 3,
+  "book_id": "9780000000028",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 10,
+  "book_id": "9780000000022",
+  "branch_id": 8,
+  "status": "taken",
+  "taker_id": 621,
+  "due_date": "2025-10-27T12:38:02Z"
+},
+{
+  "_id": 12,
+  "book_id": "9780000000013",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 14,
+  "book_id": "9780000000001",
+  "branch_id": 12,
+  "status": "taken",
+  "taker_id": 744,
+  "due_date": "2025-11-03T12:38:02Z"
+},
+{
+  "_id": 16,
+  "book_id": "9780000000024",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 18,
+  "book_id": "9780000000011",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 25,
+  "book_id": "9780000000020",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 31,
+  "book_id": "9780000000003",
+  "branch_id": 29,
+  "status": "reserved"
+},
+{
+  "_id": 40,
+  "book_id": "9780000000019",
+  "branch_id": 38,
+  "status": "reserved"
+},
+{
+  "_id": 44,
+  "book_id": "9780000000005",
+  "branch_id": 4,
+  "status": "reserved"
+},
+{
+  "_id": 46,
+  "book_id": "9780000000014",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 48,
+  "book_id": "9780000000007",
+  "branch_id": 8,
+  "status": "taken",
+  "due_date": "2025-12-18T13:59:36Z",
+  "taker_id": 1
+},
+{
+  "_id": 50,
+  "book_id": "9780000000017",
+  "branch_id": 10,
+  "status": "taken",
+  "taker_id": 455,
+  "due_date": "2025-10-29T12:38:02Z"
+},
+{
+  "_id": 70,
+  "book_id": "9780000000024",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 84,
+  "book_id": "9780000000002",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 89,
+  "book_id": "9780000000004",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 117,
+  "book_id": "9780000000015",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 130,
+  "book_id": "9780000000007",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 138,
+  "book_id": "9780000000008",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 144,
+  "book_id": "9780000000023",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 146,
+  "book_id": "9780000000022",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 154,
+  "book_id": "9780000000020",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 160,
+  "book_id": "9780000000016",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 173,
+  "book_id": "9780000000017",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 183,
+  "book_id": "9780000000021",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 202,
+  "book_id": "9780000000010",
+  "branch_id": 5,
+  "status": "taken",
+  "due_date": "2025-12-18T14:02:53Z",
+  "taker_id": 5
+},
+{
+  "_id": 24,
+  "book_id": "9780000000019",
+  "branch_id": 22,
+  "status": "reserved"
+},
+{
+  "_id": 28,
+  "book_id": "9780000000013",
+  "branch_id": 26,
+  "status": "reserved"
+},
+{
+  "_id": 36,
+  "book_id": "9780000000005",
+  "branch_id": 34,
+  "status": "reserved"
+},
+{
+  "_id": 37,
+  "book_id": "9780000000013",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 55,
+  "book_id": "9780000000022",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 57,
+  "book_id": "9780000000015",
+  "branch_id": 17,
+  "status": "taken",
+  "taker_id": 835,
+  "due_date": "2025-11-08T12:38:02Z"
+},
+{
+  "_id": 59,
+  "book_id": "9780000000000",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 67,
+  "book_id": "9780000000017",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 91,
+  "book_id": "9780000000027",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 118,
+  "book_id": "9780000000002",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 133,
+  "book_id": "9780000000008",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 165,
+  "book_id": "9780000000005",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 166,
+  "book_id": "9780000000014",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 222,
+  "book_id": "9780000000021",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 240,
+  "book_id": "9780000000015",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 253,
+  "book_id": "9780000000023",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 254,
+  "book_id": "9780000000005",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 265,
+  "book_id": "9780000000027",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 316,
+  "book_id": "9780000000020",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 323,
+  "book_id": "9780000000028",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 329,
+  "book_id": "9780000000022",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 333,
+  "book_id": "9780000000021",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 335,
+  "book_id": "9780000000009",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 338,
+  "book_id": "9780000000020",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 353,
+  "book_id": "9780000000025",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 354,
+  "book_id": "9780000000008",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 377,
+  "book_id": "9780000000016",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 379,
+  "book_id": "9780000000007",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 403,
+  "book_id": "9780000000022",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 413,
+  "book_id": "9780000000026",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 414,
+  "book_id": "9780000000012",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 433,
+  "book_id": "9780000000017",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 447,
+  "book_id": "9780000000004",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 455,
+  "book_id": "9780000000011",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 482,
+  "book_id": "9780000000015",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 483,
+  "book_id": "9780000000005",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 215,
+  "book_id": "9780000000005",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 237,
+  "book_id": "9780000000024",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 13,
+  "book_id": "9780000000028",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 17,
+  "book_id": "9780000000015",
+  "branch_id": 15,
+  "status": "taken",
+  "taker_id": 295,
+  "due_date": "2025-10-26T12:38:02Z"
+},
+{
+  "_id": 43,
+  "book_id": "9780000000003",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 51,
+  "book_id": "9780000000005",
+  "branch_id": 11,
+  "status": "reserved"
+},
+{
+  "_id": 71,
+  "book_id": "9780000000002",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 74,
+  "book_id": "9780000000001",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 79,
+  "book_id": "9780000000022",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 94,
+  "book_id": "9780000000005",
+  "branch_id": 1,
+  "status": "taken",
+  "due_date": "2026-01-03T14:53:11Z",
+  "taker_id": 7
+},
+{
+  "_id": 95,
+  "book_id": "9780000000023",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 122,
+  "book_id": "9780000000004",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 123,
+  "book_id": "9780000000024",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 137,
+  "book_id": "9780000000011",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 151,
+  "book_id": "9780000000014",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 153,
+  "book_id": "9780000000004",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 156,
+  "book_id": "9780000000021",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 172,
+  "book_id": "9780000000005",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 174,
+  "book_id": "9780000000008",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 187,
+  "book_id": "9780000000011",
+  "branch_id": 19,
+  "status": "taken",
+  "due_date": "2025-12-18T11:09:12Z",
+  "taker_id": 4
+},
+{
+  "_id": 198,
+  "book_id": "9780000000027",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 203,
+  "book_id": "9780000000015",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 212,
+  "book_id": "9780000000005",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 214,
+  "book_id": "9780000000014",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 217,
+  "book_id": "9780000000006",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 225,
+  "book_id": "9780000000024",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 259,
+  "book_id": "9780000000027",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 280,
+  "book_id": "9780000000015",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 291,
+  "book_id": "9780000000009",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 297,
+  "book_id": "9780000000015",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 322,
+  "book_id": "9780000000011",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 342,
+  "book_id": "9780000000021",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 351,
+  "book_id": "9780000000020",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 370,
+  "book_id": "9780000000012",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 381,
+  "book_id": "9780000000011",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 390,
+  "book_id": "9780000000014",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 401,
+  "book_id": "9780000000005",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 402,
+  "book_id": "9780000000006",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 409,
+  "book_id": "9780000000002",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 415,
+  "book_id": "9780000000027",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 424,
+  "book_id": "9780000000008",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 1,
+  "book_id": "9780000000022",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 7,
+  "book_id": "9780000000011",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 29,
+  "book_id": "9780000000017",
+  "branch_id": 27,
+  "status": "taken",
+  "taker_id": 873,
+  "due_date": "2025-11-02T12:38:02Z"
+},
+{
+  "_id": 41,
+  "book_id": "9780000000008",
+  "branch_id": 39,
+  "status": "taken",
+  "due_date": "2025-12-18T11:05:43Z",
+  "taker_id": 2
+},
+{
+  "_id": 61,
+  "book_id": "9780000000006",
+  "branch_id": 11,
+  "status": "taken",
+  "due_date": "2025-12-18T11:02:46Z",
+  "taker_id": 3
+},
+{
+  "_id": 73,
+  "book_id": "9780000000027",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 80,
+  "book_id": "9780000000000",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 82,
+  "book_id": "9780000000022",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 87,
+  "book_id": "9780000000022",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 92,
+  "book_id": "9780000000028",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 121,
+  "book_id": "9780000000012",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 126,
+  "book_id": "9780000000022",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 167,
+  "book_id": "9780000000013",
+  "branch_id": 16,
+  "status": "taken",
+  "due_date": "2025-12-18T11:07:04Z",
+  "taker_id": 6
+},
+{
+  "_id": 185,
+  "book_id": "9780000000025",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 190,
+  "book_id": "9780000000009",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 194,
+  "book_id": "9780000000000",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 204,
+  "book_id": "9780000000003",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 207,
+  "book_id": "9780000000016",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 262,
+  "book_id": "9780000000016",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 263,
+  "book_id": "9780000000009",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 269,
+  "book_id": "9780000000013",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 274,
+  "book_id": "9780000000007",
+  "branch_id": 12,
+  "status": "taken",
+  "due_date": "2025-12-18T11:00:32Z",
+  "taker_id": 3
+},
+{
+  "_id": 285,
+  "book_id": "9780000000022",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 290,
+  "book_id": "9780000000018",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 437,
+  "book_id": "9780000000021",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 247,
+  "book_id": "9780000000016",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 270,
+  "book_id": "9780000000002",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 314,
+  "book_id": "9780000000027",
+  "branch_id": 26,
+  "status": "available"
+},
+{
+  "_id": 327,
+  "book_id": "9780000000013",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 330,
+  "book_id": "9780000000020",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 350,
+  "book_id": "9780000000015",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 359,
+  "book_id": "9780000000026",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 382,
+  "book_id": "9780000000003",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 385,
+  "book_id": "9780000000022",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 388,
+  "book_id": "9780000000018",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 395,
+  "book_id": "9780000000022",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 407,
+  "book_id": "9780000000007",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 411,
+  "book_id": "9780000000014",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 430,
+  "book_id": "9780000000009",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 448,
+  "book_id": "9780000000021",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 468,
+  "book_id": "9780000000002",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 35,
+  "book_id": "9780000000027",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 63,
+  "book_id": "9780000000021",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 69,
+  "book_id": "9780000000018",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 76,
+  "book_id": "9780000000005",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 85,
+  "book_id": "9780000000028",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 90,
+  "book_id": "9780000000020",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 99,
+  "book_id": "9780000000016",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 119,
+  "book_id": "9780000000005",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 132,
+  "book_id": "9780000000011",
+  "branch_id": 11,
+  "status": "taken",
+  "due_date": "2025-12-18T14:03:36Z",
+  "taker_id": 4
+},
+{
+  "_id": 134,
+  "book_id": "9780000000015",
+  "branch_id": 37,
+  "status": "available"
+},
+{
+  "_id": 142,
+  "book_id": "9780000000006",
+  "branch_id": 40,
+  "status": "taken",
+  "due_date": "2025-12-18T11:03:51Z",
+  "taker_id": 1
+},
+{
+  "_id": 163,
+  "book_id": "9780000000020",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 169,
+  "book_id": "9780000000022",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 193,
+  "book_id": "9780000000011",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 196,
+  "book_id": "9780000000017",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 233,
+  "book_id": "9780000000005",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 238,
+  "book_id": "9780000000004",
+  "branch_id": 5,
+  "status": "taken",
+  "due_date": "2025-12-18T11:01:35Z",
+  "taker_id": 1
+},
+{
+  "_id": 268,
+  "book_id": "9780000000001",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 281,
+  "book_id": "9780000000008",
+  "branch_id": 4,
+  "status": "taken",
+  "due_date": "2025-12-18T14:00:32Z",
+  "taker_id": 2
+},
+{
+  "_id": 287,
+  "book_id": "9780000000018",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 294,
+  "book_id": "9780000000014",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 319,
+  "book_id": "9780000000016",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 325,
+  "book_id": "9780000000016",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 332,
+  "book_id": "9780000000025",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 355,
+  "book_id": "9780000000017",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 373,
+  "book_id": "9780000000018",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 380,
+  "book_id": "9780000000001",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 387,
+  "book_id": "9780000000009",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 406,
+  "book_id": "9780000000015",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 441,
+  "book_id": "9780000000028",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 453,
+  "book_id": "9780000000026",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 463,
+  "book_id": "9780000000024",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 472,
+  "book_id": "9780000000010",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 476,
+  "book_id": "9780000000016",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 450,
+  "book_id": "9780000000017",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 498,
+  "book_id": "9780000000027",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 22,
+  "book_id": "9780000000004",
+  "branch_id": 20,
+  "status": "taken",
+  "taker_id": 689,
+  "due_date": "2025-11-07T12:38:02Z"
+},
+{
+  "_id": 38,
+  "book_id": "9780000000025",
+  "branch_id": 36,
+  "status": "taken",
+  "taker_id": 512,
+  "due_date": "2025-11-09T12:38:02Z"
+},
+{
+  "_id": 58,
+  "book_id": "9780000000022",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 64,
+  "book_id": "9780000000026",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 116,
+  "book_id": "9780000000014",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 124,
+  "book_id": "9780000000027",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 125,
+  "book_id": "9780000000005",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 145,
+  "book_id": "9780000000019",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 148,
+  "book_id": "9780000000012",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 159,
+  "book_id": "9780000000011",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 176,
+  "book_id": "9780000000000",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 186,
+  "book_id": "9780000000009",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 200,
+  "book_id": "9780000000015",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 208,
+  "book_id": "9780000000004",
+  "branch_id": 8,
+  "status": "taken",
+  "due_date": "2025-12-18T10:52:33Z",
+  "taker_id": 2
+},
+{
+  "_id": 213,
+  "book_id": "9780000000014",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 229,
+  "book_id": "9780000000015",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 242,
+  "book_id": "9780000000021",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 243,
+  "book_id": "9780000000028",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 245,
+  "book_id": "9780000000008",
+  "branch_id": 3,
+  "status": "taken",
+  "due_date": "2025-12-18T11:06:23Z",
+  "taker_id": 3
+},
+{
+  "_id": 257,
+  "book_id": "9780000000023",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 334,
+  "book_id": "9780000000007",
+  "branch_id": 23,
+  "status": "taken",
+  "due_date": "2025-12-18T11:05:07Z",
+  "taker_id": 1
+},
+{
+  "_id": 343,
+  "book_id": "9780000000016",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 378,
+  "book_id": "9780000000025",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 383,
+  "book_id": "9780000000008",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 396,
+  "book_id": "9780000000019",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 423,
+  "book_id": "9780000000008",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 425,
+  "book_id": "9780000000002",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 431,
+  "book_id": "9780000000005",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 452,
+  "book_id": "9780000000016",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 465,
+  "book_id": "9780000000017",
+  "branch_id": 26,
+  "status": "available"
+},
+{
+  "_id": 471,
+  "book_id": "9780000000012",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 481,
+  "book_id": "9780000000005",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 491,
+  "book_id": "9780000000020",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 493,
+  "book_id": "9780000000018",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 267,
+  "book_id": "9780000000026",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 283,
+  "book_id": "9780000000005",
+  "branch_id": 5,
+  "status": "available"
+},
+{
+  "_id": 288,
+  "book_id": "9780000000006",
+  "branch_id": 20,
+  "status": "taken",
+  "due_date": "2025-12-18T13:56:49Z",
+  "taker_id": 3
+},
+{
+  "_id": 299,
+  "book_id": "9780000000006",
+  "branch_id": 18,
+  "status": "taken",
+  "due_date": "2025-12-18T13:57:36Z",
+  "taker_id": 1
+},
+{
+  "_id": 315,
+  "book_id": "9780000000008",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 320,
+  "book_id": "9780000000002",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 341,
+  "book_id": "9780000000024",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 368,
+  "book_id": "9780000000014",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 400,
+  "book_id": "9780000000011",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 420,
+  "book_id": "9780000000000",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 443,
+  "book_id": "9780000000002",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 449,
+  "book_id": "9780000000005",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 458,
+  "book_id": "9780000000016",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 462,
+  "book_id": "9780000000014",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 474,
+  "book_id": "9780000000009",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 484,
+  "book_id": "9780000000001",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 500,
+  "book_id": "9780000000005",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 33,
+  "book_id": "9780000000023",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 39,
+  "book_id": "9780000000007",
+  "branch_id": 37,
+  "status": "taken",
+  "due_date": "2025-12-18T13:58:30Z",
+  "taker_id": 3
+},
+{
+  "_id": 52,
+  "book_id": "9780000000026",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 62,
+  "book_id": "9780000000007",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 75,
+  "book_id": "9780000000004",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 78,
+  "book_id": "9780000000021",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 100,
+  "book_id": "9780000000014",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 110,
+  "book_id": "9780000000023",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 112,
+  "book_id": "9780000000014",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 114,
+  "book_id": "9780000000025",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 139,
+  "book_id": "9780000000009",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 140,
+  "book_id": "9780000000027",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 161,
+  "book_id": "9780000000002",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 162,
+  "book_id": "9780000000002",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 168,
+  "book_id": "9780000000017",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 182,
+  "book_id": "9780000000004",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 188,
+  "book_id": "9780000000000",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 201,
+  "book_id": "9780000000000",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 47,
+  "book_id": "9780000000016",
+  "branch_id": 7,
+  "status": "reserved"
+},
+{
+  "_id": 53,
+  "book_id": "9780000000019",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 86,
+  "book_id": "9780000000004",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 98,
+  "book_id": "9780000000025",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 103,
+  "book_id": "9780000000010",
+  "branch_id": 20,
+  "status": "taken",
+  "due_date": "2025-12-18T11:08:34Z",
+  "taker_id": 6
+},
+{
+  "_id": 115,
+  "book_id": "9780000000015",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 127,
+  "book_id": "9780000000024",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 131,
+  "book_id": "9780000000016",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 136,
+  "book_id": "9780000000012",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 147,
+  "book_id": "9780000000001",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 180,
+  "book_id": "9780000000007",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 219,
+  "book_id": "9780000000014",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 241,
+  "book_id": "9780000000022",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 275,
+  "book_id": "9780000000024",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 306,
+  "book_id": "9780000000024",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 339,
+  "book_id": "9780000000024",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 364,
+  "book_id": "9780000000013",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 399,
+  "book_id": "9780000000012",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 438,
+  "book_id": "9780000000010",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 444,
+  "book_id": "9780000000022",
+  "branch_id": 37,
+  "status": "available"
+},
+{
+  "_id": 451,
+  "book_id": "9780000000014",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 467,
+  "book_id": "9780000000001",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 470,
+  "book_id": "9780000000028",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 479,
+  "book_id": "9780000000005",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 480,
+  "book_id": "9780000000003",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 485,
+  "book_id": "9780000000011",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 495,
+  "book_id": "9780000000025",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 206,
+  "book_id": "9780000000014",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 216,
+  "book_id": "9780000000026",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 223,
+  "book_id": "9780000000019",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 226,
+  "book_id": "9780000000005",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 227,
+  "book_id": "9780000000004",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 228,
+  "book_id": "9780000000001",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 230,
+  "book_id": "9780000000012",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 251,
+  "book_id": "9780000000004",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 264,
+  "book_id": "9780000000000",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 271,
+  "book_id": "9780000000008",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 276,
+  "book_id": "9780000000011",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 282,
+  "book_id": "9780000000015",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 286,
+  "book_id": "9780000000025",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 289,
+  "book_id": "9780000000015",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 295,
+  "book_id": "9780000000019",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 300,
+  "book_id": "9780000000005",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 307,
+  "book_id": "9780000000020",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 312,
+  "book_id": "9780000000006",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 317,
+  "book_id": "9780000000025",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 328,
+  "book_id": "9780000000009",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 367,
+  "book_id": "9780000000011",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 386,
+  "book_id": "9780000000006",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 389,
+  "book_id": "9780000000028",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 405,
+  "book_id": "9780000000010",
+  "branch_id": 8,
+  "status": "taken",
+  "due_date": "2025-12-18T13:59:51Z",
+  "taker_id": 6
+},
+{
+  "_id": 416,
+  "book_id": "9780000000009",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 418,
+  "book_id": "9780000000001",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 419,
+  "book_id": "9780000000021",
+  "branch_id": 5,
+  "status": "available"
+},
+{
+  "_id": 421,
+  "book_id": "9780000000003",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 435,
+  "book_id": "9780000000007",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 21,
+  "book_id": "9780000000000",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 32,
+  "book_id": "9780000000008",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 34,
+  "book_id": "9780000000025",
+  "branch_id": 32,
+  "status": "taken",
+  "taker_id": 784,
+  "due_date": "2025-11-13T12:38:02Z"
+},
+{
+  "_id": 54,
+  "book_id": "9780000000011",
+  "branch_id": 14,
+  "status": "taken",
+  "taker_id": 618,
+  "due_date": "2025-11-06T12:38:02Z"
+},
+{
+  "_id": 77,
+  "book_id": "9780000000019",
+  "branch_id": 1,
+  "status": "taken",
+  "due_date": "2025-12-04T18:19:54Z",
+  "taker_id": 1
+},
+{
+  "_id": 81,
+  "book_id": "9780000000006",
+  "branch_id": 1,
+  "status": "taken",
+  "due_date": "2025-12-18T11:02:06Z",
+  "taker_id": 2
+},
+{
+  "_id": 88,
+  "book_id": "9780000000028",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 104,
+  "book_id": "9780000000000",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 105,
+  "book_id": "9780000000020",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 113,
+  "book_id": "9780000000002",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 128,
+  "book_id": "9780000000025",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 150,
+  "book_id": "9780000000005",
+  "branch_id": 26,
+  "status": "available"
+},
+{
+  "_id": 199,
+  "book_id": "9780000000005",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 205,
+  "book_id": "9780000000026",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 224,
+  "book_id": "9780000000021",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 231,
+  "book_id": "9780000000012",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 234,
+  "book_id": "9780000000006",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 273,
+  "book_id": "9780000000006",
+  "branch_id": 38,
+  "status": "taken",
+  "due_date": "2025-12-18T13:55:55Z",
+  "taker_id": 2
+},
+{
+  "_id": 279,
+  "book_id": "9780000000003",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 440,
+  "book_id": "9780000000022",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 456,
+  "book_id": "9780000000021",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 457,
+  "book_id": "9780000000017",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 473,
+  "book_id": "9780000000013",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 492,
+  "book_id": "9780000000026",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 496,
+  "book_id": "9780000000006",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 301,
+  "book_id": "9780000000025",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 302,
+  "book_id": "9780000000027",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 308,
+  "book_id": "9780000000011",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 331,
+  "book_id": "9780000000027",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 336,
+  "book_id": "9780000000011",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 347,
+  "book_id": "9780000000007",
+  "branch_id": 25,
+  "status": "taken",
+  "due_date": "2025-12-18T13:52:39Z",
+  "taker_id": 2
+},
+{
+  "_id": 356,
+  "book_id": "9780000000000",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 366,
+  "book_id": "9780000000006",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 369,
+  "book_id": "9780000000004",
+  "branch_id": 28,
+  "status": "taken",
+  "due_date": "2025-12-18T13:50:36Z",
+  "taker_id": 2
+},
+{
+  "_id": 372,
+  "book_id": "9780000000028",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 384,
+  "book_id": "9780000000007",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 398,
+  "book_id": "9780000000013",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 417,
+  "book_id": "9780000000025",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 432,
+  "book_id": "9780000000018",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 445,
+  "book_id": "9780000000013",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 459,
+  "book_id": "9780000000019",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 461,
+  "book_id": "9780000000010",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 477,
+  "book_id": "9780000000004",
+  "branch_id": 26,
+  "status": "taken",
+  "due_date": "2025-12-18T13:51:35Z",
+  "taker_id": 3
+},
+{
+  "_id": 486,
+  "book_id": "9780000000015",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 487,
+  "book_id": "9780000000004",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 490,
+  "book_id": "9780000000005",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 497,
+  "book_id": "9780000000026",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 4,
+  "book_id": "9780000000015",
+  "branch_id": 36,
+  "status": "reserved"
+},
+{
+  "_id": 8,
+  "book_id": "9780000000000",
+  "branch_id": 40,
+  "status": "reserved"
+},
+{
+  "_id": 9,
+  "book_id": "9780000000027",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 11,
+  "book_id": "9780000000017",
+  "branch_id": 9,
+  "status": "reserved"
+},
+{
+  "_id": 19,
+  "book_id": "9780000000000",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 23,
+  "book_id": "9780000000011",
+  "branch_id": 21,
+  "status": "taken",
+  "due_date": "2025-12-18T11:09:48Z",
+  "taker_id": 5
+},
+{
+  "_id": 27,
+  "book_id": "9780000000005",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 30,
+  "book_id": "9780000000024",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 42,
+  "book_id": "9780000000013",
+  "branch_id": 40,
+  "status": "taken",
+  "taker_id": 308,
+  "due_date": "2025-11-04T12:38:02Z"
+},
+{
+  "_id": 60,
+  "book_id": "9780000000005",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 65,
+  "book_id": "9780000000009",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 68,
+  "book_id": "9780000000015",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 93,
+  "book_id": "9780000000003",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 97,
+  "book_id": "9780000000005",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 101,
+  "book_id": "9780000000005",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 108,
+  "book_id": "9780000000013",
+  "branch_id": 12,
+  "status": "taken",
+  "due_date": "2025-12-18T11:00:49Z",
+  "taker_id": 5
+},
+{
+  "_id": 109,
+  "book_id": "9780000000001",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 120,
+  "book_id": "9780000000019",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 141,
+  "book_id": "9780000000020",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 152,
+  "book_id": "9780000000000",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 158,
+  "book_id": "9780000000028",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 170,
+  "book_id": "9780000000021",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 178,
+  "book_id": "9780000000002",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 181,
+  "book_id": "9780000000026",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 184,
+  "book_id": "9780000000017",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 197,
+  "book_id": "9780000000002",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 210,
+  "book_id": "9780000000016",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 232,
+  "book_id": "9780000000024",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 246,
+  "book_id": "9780000000028",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 248,
+  "book_id": "9780000000022",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 256,
+  "book_id": "9780000000013",
+  "branch_id": 2,
+  "status": "taken",
+  "due_date": "2025-12-18T14:02:02Z",
+  "taker_id": 6
+},
+{
+  "_id": 260,
+  "book_id": "9780000000014",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 261,
+  "book_id": "9780000000005",
+  "branch_id": 37,
+  "status": "available"
+},
+{
+  "_id": 266,
+  "book_id": "9780000000013",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 272,
+  "book_id": "9780000000006",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 292,
+  "book_id": "9780000000012",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 298,
+  "book_id": "9780000000028",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 318,
+  "book_id": "9780000000018",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 337,
+  "book_id": "9780000000013",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 352,
+  "book_id": "9780000000020",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 357,
+  "book_id": "9780000000014",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 363,
+  "book_id": "9780000000025",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 365,
+  "book_id": "9780000000025",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 394,
+  "book_id": "9780000000013",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 439,
+  "book_id": "9780000000002",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 442,
+  "book_id": "9780000000025",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 475,
+  "book_id": "9780000000002",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 478,
+  "book_id": "9780000000004",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 494,
+  "book_id": "9780000000001",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 45,
+  "book_id": "9780000000007",
+  "branch_id": 5,
+  "status": "taken",
+  "taker_id": 911,
+  "due_date": "2025-11-11T12:38:02Z"
+},
+{
+  "_id": 49,
+  "book_id": "9780000000001",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 83,
+  "book_id": "9780000000024",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 102,
+  "book_id": "9780000000021",
+  "branch_id": 1,
+  "status": "taken",
+  "due_date": "2026-01-04T11:11:05Z",
+  "taker_id": 8
+},
+{
+  "_id": 106,
+  "book_id": "9780000000004",
+  "branch_id": 12,
+  "status": "taken",
+  "due_date": "2025-12-18T11:00:16Z",
+  "taker_id": 3
+},
+{
+  "_id": 107,
+  "book_id": "9780000000013",
+  "branch_id": 12,
+  "status": "taken",
+  "due_date": "2025-12-18T11:00:42Z",
+  "taker_id": 4
+},
+{
+  "_id": 111,
+  "book_id": "9780000000024",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 164,
+  "book_id": "9780000000011",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 171,
+  "book_id": "9780000000010",
+  "branch_id": 8,
+  "status": "taken",
+  "due_date": "2025-12-18T10:59:35Z",
+  "taker_id": 5
+},
+{
+  "_id": 177,
+  "book_id": "9780000000019",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 191,
+  "book_id": "9780000000023",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 195,
+  "book_id": "9780000000025",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 209,
+  "book_id": "9780000000025",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 211,
+  "book_id": "9780000000010",
+  "branch_id": 26,
+  "status": "taken",
+  "due_date": "2025-12-18T11:07:59Z",
+  "taker_id": 4
+},
+{
+  "_id": 220,
+  "book_id": "9780000000009",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 236,
+  "book_id": "9780000000001",
+  "branch_id": 26,
+  "status": "available"
+},
+{
+  "_id": 249,
+  "book_id": "9780000000024",
+  "branch_id": 37,
+  "status": "available"
+},
+{
+  "_id": 252,
+  "book_id": "9780000000011",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 255,
+  "book_id": "9780000000018",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 278,
+  "book_id": "9780000000003",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 284,
+  "book_id": "9780000000008",
+  "branch_id": 25,
+  "status": "taken",
+  "due_date": "2025-12-18T13:52:57Z",
+  "taker_id": 3
+},
+{
+  "_id": 2,
+  "book_id": "9780000000017",
+  "branch_id": 34,
+  "status": "taken",
+  "taker_id": 901,
+  "due_date": "2025-11-10T12:38:02Z"
+},
+{
+  "_id": 5,
+  "book_id": "9780000000013",
+  "branch_id": 37,
+  "status": "taken",
+  "due_date": "2025-12-18T13:58:52Z",
+  "taker_id": 4
+},
+{
+  "_id": 6,
+  "book_id": "9780000000011",
+  "branch_id": 38,
+  "status": "taken",
+  "taker_id": 512,
+  "due_date": "2025-11-12T12:38:02Z"
+},
+{
+  "_id": 15,
+  "book_id": "9780000000008",
+  "branch_id": 13,
+  "status": "reserved"
+},
+{
+  "_id": 20,
+  "book_id": "9780000000022",
+  "branch_id": 18,
+  "status": "reserved"
+},
+{
+  "_id": 26,
+  "book_id": "9780000000002",
+  "branch_id": 24,
+  "status": "taken",
+  "taker_id": 940,
+  "due_date": "2025-11-15T12:38:02Z"
+},
+{
+  "_id": 56,
+  "book_id": "9780000000019",
+  "branch_id": 16,
+  "status": "reserved"
+},
+{
+  "_id": 66,
+  "book_id": "9780000000028",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 72,
+  "book_id": "9780000000013",
+  "branch_id": 7,
+  "status": "taken",
+  "due_date": "2025-12-18T14:01:23Z",
+  "taker_id": 5
+},
+{
+  "_id": 96,
+  "book_id": "9780000000018",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 129,
+  "book_id": "9780000000012",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 135,
+  "book_id": "9780000000023",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 143,
+  "book_id": "9780000000014",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 149,
+  "book_id": "9780000000005",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 155,
+  "book_id": "9780000000019",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 157,
+  "book_id": "9780000000011",
+  "branch_id": 9,
+  "status": "taken",
+  "due_date": "2025-12-18T14:04:15Z",
+  "taker_id": 5
+},
+{
+  "_id": 175,
+  "book_id": "9780000000018",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 179,
+  "book_id": "9780000000009",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 189,
+  "book_id": "9780000000012",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 192,
+  "book_id": "9780000000011",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 218,
+  "book_id": "9780000000027",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 221,
+  "book_id": "9780000000003",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 235,
+  "book_id": "9780000000010",
+  "branch_id": 2,
+  "status": "taken",
+  "due_date": "2025-12-18T14:02:10Z",
+  "taker_id": 4
+},
+{
+  "_id": 239,
+  "book_id": "9780000000007",
+  "branch_id": 18,
+  "status": "taken",
+  "due_date": "2025-12-18T11:04:27Z",
+  "taker_id": 2
+},
+{
+  "_id": 244,
+  "book_id": "9780000000008",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 250,
+  "book_id": "9780000000021",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 258,
+  "book_id": "9780000000000",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 296,
+  "book_id": "9780000000027",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 309,
+  "book_id": "9780000000021",
+  "branch_id": 21,
+  "status": "available"
+},
+{
+  "_id": 310,
+  "book_id": "9780000000015",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 311,
+  "book_id": "9780000000001",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 348,
+  "book_id": "9780000000019",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 358,
+  "book_id": "9780000000000",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 361,
+  "book_id": "9780000000017",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 371,
+  "book_id": "9780000000008",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 374,
+  "book_id": "9780000000022",
+  "branch_id": 37,
+  "status": "available"
+},
+{
+  "_id": 376,
+  "book_id": "9780000000013",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 392,
+  "book_id": "9780000000015",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 397,
+  "book_id": "9780000000018",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 408,
+  "book_id": "9780000000009",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 422,
+  "book_id": "9780000000016",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 428,
+  "book_id": "9780000000008",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 466,
+  "book_id": "9780000000002",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 469,
+  "book_id": "9780000000011",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 489,
+  "book_id": "9780000000012",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 277,
+  "book_id": "9780000000013",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 293,
+  "book_id": "9780000000022",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 303,
+  "book_id": "9780000000008",
+  "branch_id": 37,
+  "status": "available"
+},
+{
+  "_id": 304,
+  "book_id": "9780000000014",
+  "branch_id": 18,
+  "status": "available"
+},
+{
+  "_id": 305,
+  "book_id": "9780000000028",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 313,
+  "book_id": "9780000000013",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 321,
+  "book_id": "9780000000024",
+  "branch_id": 30,
+  "status": "available"
+},
+{
+  "_id": 324,
+  "book_id": "9780000000001",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 326,
+  "book_id": "9780000000001",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 340,
+  "book_id": "9780000000016",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 344,
+  "book_id": "9780000000008",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 345,
+  "book_id": "9780000000002",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 346,
+  "book_id": "9780000000023",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 349,
+  "book_id": "9780000000004",
+  "branch_id": 25,
+  "status": "taken",
+  "due_date": "2025-12-18T13:52:22Z",
+  "taker_id": 1
+},
+{
+  "_id": 360,
+  "book_id": "9780000000021",
+  "branch_id": 23,
+  "status": "available"
+},
+{
+  "_id": 362,
+  "book_id": "9780000000027",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 375,
+  "book_id": "9780000000018",
+  "branch_id": 40,
+  "status": "available"
+},
+{
+  "_id": 391,
+  "book_id": "9780000000001",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 393,
+  "book_id": "9780000000025",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 404,
+  "book_id": "9780000000028",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 410,
+  "book_id": "9780000000002",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 412,
+  "book_id": "9780000000023",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 426,
+  "book_id": "9780000000020",
+  "branch_id": 13,
+  "status": "available"
+},
+{
+  "_id": 427,
+  "book_id": "9780000000021",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 429,
+  "book_id": "9780000000022",
+  "branch_id": 32,
+  "status": "available"
+},
+{
+  "_id": 434,
+  "book_id": "9780000000001",
+  "branch_id": 26,
+  "status": "available"
+},
+{
+  "_id": 436,
+  "book_id": "9780000000023",
+  "branch_id": 33,
+  "status": "available"
+},
+{
+  "_id": 446,
+  "book_id": "9780000000000",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 454,
+  "book_id": "9780000000021",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 460,
+  "book_id": "9780000000001",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 464,
+  "book_id": "9780000000013",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 488,
+  "book_id": "9780000000026",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 499,
+  "book_id": "9780000000026",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 512,
+  "book_id": "9780000000010",
+  "branch_id": 5,
+  "status": "available"
+},
+{
+  "_id": 523,
+  "book_id": "9780000000002",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 541,
+  "book_id": "9780000000023",
+  "branch_id": 17,
+  "status": "available"
+},
+{
+  "_id": 544,
+  "book_id": "9780000000023",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 510,
+  "book_id": "9780000000017",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 522,
+  "book_id": "9780000000017",
+  "branch_id": 2,
+  "status": "available"
+},
+{
+  "_id": 527,
+  "book_id": "9780000000021",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 552,
+  "book_id": "9780000000025",
+  "branch_id": 34,
+  "status": "available"
+},
+{
+  "_id": 530,
+  "book_id": "9780000000007",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 539,
+  "book_id": "9780000000012",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 543,
+  "book_id": "9780000000022",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 553,
+  "book_id": "9780000000013",
+  "branch_id": 9,
+  "status": "available"
+},
+{
+  "_id": 560,
+  "book_id": "9780000000028",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 561,
+  "book_id": "9780000000028",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 563,
+  "book_id": "9780000000028",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 551,
+  "book_id": "9780000000014",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 554,
+  "book_id": "9780000000025",
+  "branch_id": 25,
+  "status": "available"
+},
+{
+  "_id": 556,
+  "book_id": "9780000000026",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 557,
+  "book_id": "9780000000003",
+  "branch_id": 28,
+  "status": "available"
+},
+{
+  "_id": 558,
+  "book_id": "9780000000004",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 504,
+  "book_id": "9780000000027",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 518,
+  "book_id": "9780000000019",
+  "branch_id": 10,
+  "status": "available"
+},
+{
+  "_id": 520,
+  "book_id": "9780000000016",
+  "branch_id": 38,
+  "status": "available"
+},
+{
+  "_id": 532,
+  "book_id": "9780000000000",
+  "branch_id": 36,
+  "status": "available"
+},
+{
+  "_id": 533,
+  "book_id": "9780000000009",
+  "branch_id": 4,
+  "status": "available"
+},
+{
+  "_id": 503,
+  "book_id": "9780000000013",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 529,
+  "book_id": "9780000000023",
+  "branch_id": 39,
+  "status": "available"
+},
+{
+  "_id": 534,
+  "book_id": "9780000000026",
+  "branch_id": 29,
+  "status": "available"
+},
+{
+  "_id": 549,
+  "book_id": "9780000000013",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 564,
+  "book_id": "9780000000028",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 509,
+  "book_id": "9780000000022",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 511,
+  "book_id": "9780000000001",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 514,
+  "book_id": "9780000000012",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 535,
+  "book_id": "9780000000028",
+  "branch_id": 24,
+  "status": "available"
+},
+{
+  "_id": 540,
+  "book_id": "9780000000015",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 501,
+  "book_id": "9780000000009",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 508,
+  "book_id": "9780000000002",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 517,
+  "book_id": "9780000000017",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 502,
+  "book_id": "9780000000016",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 505,
+  "book_id": "9780000000027",
+  "branch_id": 5,
+  "status": "available"
+},
+{
+  "_id": 513,
+  "book_id": "9780000000005",
+  "branch_id": 26,
+  "status": "available"
+},
+{
+  "_id": 516,
+  "book_id": "9780000000015",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 525,
+  "book_id": "9780000000006",
+  "branch_id": 16,
+  "status": "available"
+},
+{
+  "_id": 528,
+  "book_id": "9780000000018",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 550,
+  "book_id": "9780000000004",
+  "branch_id": 37,
+  "status": "available"
+},
+{
+  "_id": 559,
+  "book_id": "9780000000028",
+  "branch_id": 1,
+  "status": "available"
+},
+{
+  "_id": 536,
+  "book_id": "9780000000016",
+  "branch_id": 27,
+  "status": "available"
+},
+{
+  "_id": 542,
+  "book_id": "9780000000006",
+  "branch_id": 35,
+  "status": "available"
+},
+{
+  "_id": 545,
+  "book_id": "9780000000014",
+  "branch_id": 14,
+  "status": "available"
+},
+{
+  "_id": 547,
+  "book_id": "9780000000022",
+  "branch_id": 19,
+  "status": "available"
+},
+{
+  "_id": 548,
+  "book_id": "9780000000022",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 507,
+  "book_id": "9780000000027",
+  "branch_id": 5,
+  "status": "available"
+},
+{
+  "_id": 515,
+  "book_id": "9780000000007",
+  "branch_id": 3,
+  "status": "available"
+},
+{
+  "_id": 519,
+  "book_id": "9780000000028",
+  "branch_id": 7,
+  "status": "available"
+},
+{
+  "_id": 521,
+  "book_id": "9780000000016",
+  "branch_id": 8,
+  "status": "available"
+},
+{
+  "_id": 524,
+  "book_id": "9780000000017",
+  "branch_id": 20,
+  "status": "available"
+},
+{
+  "_id": 537,
+  "book_id": "9780000000021",
+  "branch_id": 31,
+  "status": "available"
+},
+{
+  "_id": 538,
+  "book_id": "9780000000012",
+  "branch_id": 12,
+  "status": "available"
+},
+{
+  "_id": 546,
+  "book_id": "9780000000026",
+  "branch_id": 11,
+  "status": "available"
+},
+{
+  "_id": 506,
+  "book_id": "9780000000004",
+  "branch_id": 15,
+  "status": "available"
+},
+{
+  "_id": 526,
+  "book_id": "9780000000017",
+  "branch_id": 22,
+  "status": "available"
+},
+{
+  "_id": 531,
+  "book_id": "9780000000000",
+  "branch_id": 5,
+  "status": "available"
+},
+{
+  "_id": 555,
+  "book_id": "9780000000006",
+  "branch_id": 6,
+  "status": "available"
+},
+{
+  "_id": 562,
+  "book_id": "9780000000028",
+  "branch_id": 1,
+  "status": "available"
+}]
