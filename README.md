@@ -8,9 +8,9 @@ Projekto tikslas – sukurti bibliotekos valdymo sistemą, naudojant skirtingas 
 
 Laboratorinių darbų metu buvo kuriama ir palaipsniui plečiama Python ir Flask pagrindu veikianti REST API aplikacija. Pradžioje realizuotos pagrindinės bibliotekos valdymo funkcijos naudojant MongoDB, o vėliau sistema papildyta duomenų spartinimo, veiksmų registravimo, knygų rekomendavimo ir analitikos galimybėmis.
 
-## Naudotos technologijos
+## Darbe naudota
 
-| Technologija | Paskirtis |
+| Pavadinimas | Paskirtis |
 |---|---|
 | Python | Pagrindinė programavimo kalba |
 | Flask | REST API kūrimas |
