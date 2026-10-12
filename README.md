@@ -36,7 +36,7 @@ Pirmajame laboratoriniame darbe sukurta REST API aplikacija, naudojanti MongoDB 
 - Naudotojų autentifikavimas ir prieigos teisių valdymas.
 - Duomenų agregavimo užklausos.
 
-Duomenų pavyzdžiai pateikiami `Duomenys` aplanke JSON formatu.
+Duomenų pavyzdžiai pateikiami `1_MongoDB/Duomenys` aplanke JSON formatu.
 
 ### 2–3. Redis ir Apache Cassandra – spartinimas ir veiksmų registravimas
 
